@@ -1,0 +1,17 @@
+{
+    "name": "bestemmiolo",
+    "description": "Simple app for bestemmie for Azure App Service",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "Microsoft",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "request": "^2.88.2",
+        "response": "^0.18.0",
+        "superagent": "^6.1.0"
+    }
+}
